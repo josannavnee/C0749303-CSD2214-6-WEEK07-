@@ -19,3 +19,4 @@ var bear = {
     noisy: true,
     deadly: true
 }
+person["firstname"]
